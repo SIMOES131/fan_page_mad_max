@@ -25,7 +25,7 @@
             width: 100%;
 
             &:nth-child(2) {            // para selecionar o segundo item da lista
-                background-image: url(https://servior-estaticos.vercel.app/fundo_combo_plus.png);
+                background-image: url(../../src/images/fundo_combo_plus.png);
                 background-repeat: no-repeat; // para retirar a repetição da imagem
                 background-size: contain; // para utilizar toda a altura do li
             }
